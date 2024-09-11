@@ -77,8 +77,10 @@ An utility package for myanmar locations: region, township, village tracts and v
                            .lookup("township", { as: "township", localId: "township_id" })
                            .lookup("villageTract", { as: "villageTract", localId: "village_tract_id" })
                            .get();
+    
+    console.log(villages);
 
-    // Sample output of villages variable
+    // Sample output is
     [
         {
             _id: 1,
