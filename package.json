@@ -1,7 +1,7 @@
 {
   "name": "myanmar-location-utility",
   "description": "An utility package for myanmar locations: region, township, village tracts and villages",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "main": "src/index.js",
   "author": "Sai Htet Aung <saihtetaung276@gmail.com>",
   "repository": {
