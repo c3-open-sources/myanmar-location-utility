@@ -1,6 +1,6 @@
 // index.d.ts
 
-export interface Location {
+export function Location(data?: Array<Object>): {
     read(location: "region" | "township" | "villageTract" | "village"): Promise<Array<Object>>;
     lookup(
       location: "region" | "township" | "villageTract" | "village",
