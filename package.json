@@ -1,9 +1,9 @@
 {
-  "name": "myanmar-location-lookup",
+  "name": "lookup-myanmar-location",
   "description": "An utility package for myanmar locations: region, township, village tracts and villages",
   "version": "0.1.0",
   "main": "src/index.js",
-  "author": "Sai Htet Aung <saihtetaung276@gmail.com>",
+  "author": "C3 <hello@c3.com.mm>",
   "repository": {
     "type": "git",
     "url": "https://github.com/c3-open-sources/myanmar-location-utility.git"
