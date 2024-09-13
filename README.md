@@ -1,4 +1,4 @@
-# Myanmar Location Utility
+# Myanmar Location Lookup
 
 An utility package for myanmar locations: region, township, village tracts and villages.
 
